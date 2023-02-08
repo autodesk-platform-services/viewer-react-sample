@@ -5,6 +5,8 @@
 [![npm](https://img.shields.io/badge/npm-8.15-blue.svg)](https://www.npmjs.com/)
 [![license](https://img.shields.io/:license-mit-green.svg)](https://opensource.org/licenses/MIT)
 
+> This code sample is referenced by the following blog post: https://aps.autodesk.com/blog/building-simple-react-wrapper-viewer
+
 Simple React application (bootstrapped using [Create React App](https://github.com/facebook/create-react-app)) with the viewer embedded into it using a custom wrapper component.
 
 ![thumbnail](thumbnail.png)
