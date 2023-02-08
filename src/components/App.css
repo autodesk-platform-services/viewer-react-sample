@@ -1,0 +1,10 @@
+.app {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.app > * {
+    margin: 0.5em;
+}
