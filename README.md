@@ -31,7 +31,7 @@ Simple React application (bootstrapped using [Create React App](https://github.c
 
 ## Troubleshooting
 
-Please contact us via https://forge.autodesk.com/en/support/get-help.
+Please contact us via https://aps.autodesk.com/en/support/get-help.
 
 ## License
 
